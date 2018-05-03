@@ -2,4 +2,4 @@
 A cookie server in Python
 
 
-``py CookieServer.py``
+#Run via ``py CookieServer.py`` in console
